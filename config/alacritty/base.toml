@@ -1,0 +1,5 @@
+[colors.primary]
+background = "#1d1f21"
+
+[window]
+opacity = 0.6
